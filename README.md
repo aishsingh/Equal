@@ -1,0 +1,2 @@
+# Equal
+HackerRank Challenge
